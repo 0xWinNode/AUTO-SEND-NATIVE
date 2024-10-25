@@ -8,7 +8,7 @@ This bot is designed to automatically send native tokens on EVM-compatible chain
 - Allows multiple transactions in one run
 - Simple, secure, and easy to use
 
-**Bot created by**: [https://t.me/airdropwithmeh](https://t.me/airdropwithmeh)
+**Bot created by**: [https://www.instagram.com/nofanr.rambe/profilecard/?igsh=bXhqbThhbWVmYnQ1]
 
 ## How to Use
 
@@ -16,11 +16,11 @@ This bot is designed to automatically send native tokens on EVM-compatible chain
 To get started, clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/ganjsmoke/auto-send-native.git
+git clone https://github.com/0xWinNode/AUTO-SEND-NATIVE.git
 ```
 
 ```bash
-cd auto-send-native-token-bot
+cd AUTO-SEND-NATIVE
 ```
 ### 2. Install Dependencies
 ```bash
@@ -39,3 +39,5 @@ After running the script, you will be prompted to provide:
 * Number of Transactions: The number of transactions you want to perform.
 * Amount of Ether: The amount of Ether to send per transaction.
 * Each transaction will be sent to a newly generated random recipient address.
+
+## Thanks You
